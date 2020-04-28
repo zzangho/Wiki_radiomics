@@ -1,2 +1,2 @@
 - Basic
-  - Statistics 101 for Radiologists, Arash Anvari et al [https://pubs.rsna.org/doi/full/10.1148/rg.2015150112]
+  - Statistics 101 for Radiologists, Arash Anvari et al, Radiographics [https://pubs.rsna.org/doi/full/10.1148/rg.2015150112]
